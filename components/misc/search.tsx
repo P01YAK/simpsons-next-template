@@ -84,7 +84,7 @@ function Search({ visible, setVisible }) {
 							type='search'
 							className='form-input w-full text-gray-400 px-3 py-2 pl-10'
 							placeholder='Искать по страницам'
-							autocomplete='off'
+							autoComplete='off'
 							onChange={handleChangeInput}
 						/>
 						<button
